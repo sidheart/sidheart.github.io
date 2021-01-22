@@ -2,7 +2,7 @@
 
 let header = $(`
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-<a class="navbar-brand" href="index.html">John Doe </a>
+<a class="navbar-brand" href="index.html">Sid Narayan </a>
 <div class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> 
   <svg width="100" height="100" viewBox="0 0 100 100">
         <path class="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058" />
@@ -16,8 +16,8 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-   <li class="nav-item"><a class="nav-link" href="research.html">Research</a></li>
-   <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
+   <li class="nav-item"><a class="nav-link" href="research.html">Blog</a></li>
+   <li class="nav-item"><a class="nav-link" href="assets/resume.pdf" target="_blank">Resume</a></li>
   </ul>
 </div>
 </nav>`);
@@ -30,10 +30,8 @@ let footer = $(`
       <p class="tag" >"Develop a passion for learning. If you do, you will never cease to grow."
       </p>
           <div class="rounded-social-buttons tag">
-              <a class="social-button twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-              <a class="social-button linkedin" href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
-              <a class="social-button medium" href="#" target="_blank"><i class="fab fa-medium"></i></a>
-              <a class="social-button github" href="#" target="_blank"><i class="fab fa-github"></i></a>
+              <a class="social-button linkedin" href="https://www.linkedin.com/in/sidheartn/" target="_blank"><i class="fab fa-linkedin"></i></a>
+              <a class="social-button github" href="https://github.com/sidheart" target="_blank"><i class="fab fa-github"></i></a>
            </div>
     </div>
 
